@@ -1,0 +1,19 @@
+{
+  "job_families": [
+    {"name": "Elsword", "jobs": ["KE", "RM", "IM", "GE"]},
+    {"name": "Aisha", "jobs": ["AS", "OS", "MM", "LA"]},
+    {"name": "Rena", "jobs": ["AN", "DaB", "TW", "PR"]},
+    {"name": "Raven", "jobs": ["FB", "RH", "NI", "RE"]},
+    {"name": "Eve", "jobs": ["CU", "CE", "CS", "CA"]},
+    {"name": "Chung", "jobs": ["CC", "FP", "CeT", "Dia"]},
+    {"name": "Ara", "jobs": ["VI", "BR", "SH", "SU"]},
+    {"name": "Elesis", "jobs": ["ES", "FL", "BQ", "AD"]},
+    {"name": "Add", "jobs": ["DB", "DN", "MP", "OM"]},
+    {"name": "Lu/Ciel", "jobs": ["IN", "CT", "DE", "DA"]},
+    {"name": "Rose", "jobs": ["TB", "BMA", "MN", "PO"]},
+    {"name": "Ain", "jobs": ["RI", "BL", "HE", "BG"]},
+    {"name": "Laby", "jobs": ["EW", "RS", "NL", "TP"]},
+    {"name": "Noah", "jobs": ["LI", "CeL", "NP", "MO"]},
+    {"name": "Lithia", "jobs": ["GB", "AV", "AC", "MI"]}
+  ]
+}
